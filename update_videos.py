@@ -6,7 +6,7 @@ from datetime import datetime, timezone
 
 ROOT=Path(__file__).resolve().parent
 OUT=ROOT/'videos.json'
-HANDLES=['raisingfloofz','Vicky_and_her_Essas','FLUFF_ESSAS','StarLight-2025-f5v','Wobbles_Essa','JAUGWIREESSA','CollieMENACE','OliPaws_ESSA','Candy_dragonz','that_one_cute_pup','CuddlyHowlers','Bellasworkingpups']
+HANDLES=['raisingfloofz','Vicky_and_her_Essas','Wobbles_Essa','OliPaws_ESSA','CuddlyHowlers']
 HEADERS={'User-Agent':'Mozilla/5.0 (compatible; ESSAzTube/1.0; public feed reader)','Accept-Language':'en-US,en;q=0.9'}
 
 def fetch(url):
