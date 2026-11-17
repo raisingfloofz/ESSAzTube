@@ -8,7 +8,9 @@
 <div class="viewer hidden" id="viewer" role="dialog" aria-label="Video player" aria-modal="true"><div class="viewerbar"><button id="backBtn" aria-label="Close video">← Back</button><b id="playingTitle">Now Playing</b></div><div class="screen" id="screen"><iframe id="player" title="YouTube video player" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div><div class="viewercontrols"><button id="browseBtn">Browse other videoz ↓</button></div><div class="hint">Use Browse other videoz to reveal recommendations while watching.</div><div class="recommendations hidden" id="recommendations"><h3>More Featured Videoz</h3><div id="recList"></div></div></div>
 <script>
 'use strict';
-const HANDLES=['raisingfloofz','Vicky_and_her_Essas','FLUFF_ESSAS','StarLight-2025-f5v','Wobbles_Essa','JAUGWIREESSA','CollieMENACE','OliPaws_ESSA','Candy_dragonz','that_one_cute_pup','CuddlyHowlers','Bellasworkingpups'];
+
+const HANDLES=['raisingfloofz','Vicky_and_her_Essas','Wobbles_Essa','OliPaws_ESSA','CuddlyHowlers'];
+  
 const $=id=>document.getElementById(id);let channels=[],videos=[],selected='all',current=null;
 const safe=s=>String(s||'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
 const avatar=(c,small=false)=>c&&c.avatar?`<img src="${safe(c.avatar)}" alt="" loading="lazy" referrerpolicy="no-referrer" onerror="this.remove()">`:safe((c?.name||c?.handle||'?').charAt(0).toUpperCase());
