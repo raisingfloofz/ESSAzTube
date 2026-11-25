@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T01:52:08.888876+00:00",
+  "updatedAt": "2026-11-25T16:41:42.739938+00:00",
   "channels": [
     {
       "handle": "raisingfloofz",
@@ -46,7 +46,8 @@
       "published": "2026-11-24T21:30:37+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/ghSQ1Vdd4VA/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 14
     },
     {
       "id": "YD04TlSkn6s",
@@ -56,7 +57,8 @@
       "published": "2026-11-24T20:42:18+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/YD04TlSkn6s/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 16
     },
     {
       "id": "OUbD_3Iru28",
@@ -66,7 +68,8 @@
       "published": "2026-11-24T19:43:22+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/OUbD_3Iru28/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 7
     },
     {
       "id": "DFc1xRYyAJc",
@@ -87,7 +90,8 @@
       "published": "2026-11-23T19:12:09+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/bW8JvrBhl1s/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "full",
+      "durationSeconds": 177
     },
     {
       "id": "ucGbKFHJTOo",
@@ -894,7 +898,8 @@
       "published": "2026-10-28T21:27:08+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/VP36oTi27B8/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 15
     },
     {
       "id": "dW2JShtevu0",
@@ -904,7 +909,8 @@
       "published": "2026-10-24T22:25:12+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/dW2JShtevu0/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "full",
+      "durationSeconds": 1161
     },
     {
       "id": "0OFA9OZl5v4",
@@ -914,7 +920,8 @@
       "published": "2026-10-24T03:30:00+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/0OFA9OZl5v4/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 16
     },
     {
       "id": "8TyOon_Ntys",
@@ -924,7 +931,8 @@
       "published": "2026-10-24T03:23:00+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/8TyOon_Ntys/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 16
     },
     {
       "id": "sPlHLrgPNVg",
@@ -934,7 +942,8 @@
       "published": "2026-10-17T13:17:15+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/sPlHLrgPNVg/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "full",
+      "durationSeconds": 1087
     },
     {
       "id": "UQgOtbFCMSM",
@@ -944,7 +953,8 @@
       "published": "2026-10-16T22:14:46+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/UQgOtbFCMSM/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 13
     },
     {
       "id": "cUtE4s3o1BU",
@@ -954,7 +964,8 @@
       "published": "2026-10-16T18:58:52+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/cUtE4s3o1BU/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 11
     },
     {
       "id": "i0RWHaJ83d0",
@@ -974,7 +985,8 @@
       "published": "2026-10-13T22:01:28+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/Hda2ELVJg7s/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "full",
+      "durationSeconds": 869
     },
     {
       "id": "BX_pmHPNPtU",
@@ -984,7 +996,8 @@
       "published": "2026-10-12T01:21:21+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/BX_pmHPNPtU/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 60
     },
     {
       "id": "VKQH0IJbVKo",
@@ -994,7 +1007,8 @@
       "published": "2026-10-12T00:48:36+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/VKQH0IJbVKo/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 15
     },
     {
       "id": "9xQiGPqAo8o",
@@ -1004,7 +1018,8 @@
       "published": "2026-10-11T16:38:08+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/9xQiGPqAo8o/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 9
     },
     {
       "id": "r9Ssz_h_eJw",
@@ -1024,7 +1039,8 @@
       "published": "2026-10-11T00:36:52+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/ie5D8sTd2mU/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 8
     },
     {
       "id": "M0czJ4yYDyU",
@@ -1044,7 +1060,8 @@
       "published": "2026-10-06T01:12:27+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/vAMHXS-MezM/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 7
     },
     {
       "id": "xMOWstot26o",
@@ -1074,7 +1091,8 @@
       "published": "2026-10-01T23:42:49+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/LLbcS0xO7_o/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "full",
+      "durationSeconds": 387
     },
     {
       "id": "DWCGfdfkqSg",
@@ -1084,7 +1102,8 @@
       "published": "2026-09-29T21:56:16+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/DWCGfdfkqSg/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 29
     },
     {
       "id": "_GSTYPDUvSU",
@@ -1094,7 +1113,8 @@
       "published": "2026-09-25T22:23:13+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/_GSTYPDUvSU/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 30
     },
     {
       "id": "p3P5CndZAoM",
@@ -1104,7 +1124,8 @@
       "published": "2026-09-25T00:48:36+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/p3P5CndZAoM/hqdefault.jpg",
-      "videoType": "unknown"
+      "videoType": "short",
+      "durationSeconds": 60
     }
   ]
 }
