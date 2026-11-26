@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-25T16:41:42.739938+00:00",
+  "updatedAt": "2026-11-26T01:28:02.724398+00:00",
   "channels": [
     {
       "handle": "raisingfloofz",
@@ -38,6 +38,26 @@
     }
   ],
   "videos": [
+    {
+      "id": "-vMYY5DHN9s",
+      "channelId": "UCM6bVi_txFlfakBPgpA1Fuw",
+      "handle": "raisingfloofz",
+      "title": "OMG THIS ESSA APP! #essacommunity #essa",
+      "published": "2026-11-25T23:19:29+00:00",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/-vMYY5DHN9s/hqdefault.jpg",
+      "videoType": "unknown"
+    },
+    {
+      "id": "7XO2Vw3pvKc",
+      "channelId": "UC06XdZ7KsbDk8QoOHlHbWYg",
+      "handle": "Vicky_and_her_Essas",
+      "title": "Service dog TikTok comp! Credits to original owners, enjoy! 🐕‍🦺🦮🦴🐾",
+      "published": "2026-11-25T19:13:28+00:00",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/7XO2Vw3pvKc/hqdefault.jpg",
+      "videoType": "unknown"
+    },
     {
       "id": "ghSQ1Vdd4VA",
       "channelId": "UC0ku6aOVIqhIqBERx5qqozQ",
@@ -233,6 +253,16 @@
       "published": "2026-11-19T21:29:22+00:00",
       "description": "",
       "thumbnail": "https://i.ytimg.com/vi/So-Qd0ccNag/hqdefault.jpg",
+      "videoType": "unknown"
+    },
+    {
+      "id": "DZcRLb2RdKA",
+      "channelId": "UCM6bVi_txFlfakBPgpA1Fuw",
+      "handle": "raisingfloofz",
+      "title": "ESSAzLife Swipez",
+      "published": "2026-11-19T19:48:05+00:00",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/DZcRLb2RdKA/hqdefault.jpg",
       "videoType": "unknown"
     },
     {
